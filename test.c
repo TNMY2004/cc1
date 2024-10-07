@@ -1,5 +1,5 @@
 #include<stdio.h>
-int main {
+int main() {
 printf("\nThis is a program from my github account & executing it google cloud console\n");
 return 0;
 }
